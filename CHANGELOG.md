@@ -11,7 +11,7 @@ Todos los cambios del proyecto
 - Registro de usuarios con hash de contraseña
 - Login y autenticación JWT (expira en 10 minutos)
 - CRUD completo de tareas asociadas al usuario autenticado
-- Conexión segura con MongoDB Atlas
+- Conexión con MongoDB Atlas
 - Middleware de protección JWT
 
 ---
